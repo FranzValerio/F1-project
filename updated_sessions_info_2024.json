@@ -1,0 +1,110 @@
+{
+    "Bahrain": {
+        "circuit_short_name": "Sakhir",
+        "session_name": "Race",
+        "session_key": 9472,
+        "total_laps": 57
+    },
+    "Saudi Arabia": {
+        "circuit_short_name": "Jeddah",
+        "session_name": "Race",
+        "session_key": 9480,
+        "total_laps": 50
+    },
+    "Australia": {
+        "circuit_short_name": "Melbourne",
+        "session_name": "Race",
+        "session_key": 9488,
+        "total_laps": 58
+    },
+    "Japan": {
+        "circuit_short_name": "Suzuka",
+        "session_name": "Race",
+        "session_key": 9496,
+        "total_laps": 53
+    },
+    "China": {
+        "circuit_short_name": "Shanghai",
+        "session_name": "Race",
+        "session_key": 9673,
+        "total_laps": 56
+    },
+    "Miami": {
+        "circuit_short_name": "Miami",
+        "session_name": "Race",
+        "session_key": 9507,
+        "total_laps": 57
+    },
+    "Emilia-Romagna": {
+        "circuit_short_name": "Imola",
+        "session_name": "Race",
+        "session_key": 9515,
+        "total_laps": 63
+    },
+    "Monaco": {
+        "circuit_short_name": "Monte Carlo",
+        "session_name": "Race",
+        "session_key": 9523,
+        "total_laps": 78
+    },
+    "Canada": {
+        "circuit_short_name": "Montreal",
+        "session_name": "Race",
+        "session_key": 9531,
+        "total_laps": 70
+    },
+    "Spain": {
+        "circuit_short_name": "Catalunya",
+        "session_name": "Race",
+        "session_key": 9539,
+        "total_laps": 66
+    },
+    "Austria": {
+        "circuit_short_name": "Spielberg",
+        "session_name": "Race",
+        "session_key": 9550,
+        "total_laps": 71
+    },
+    "Great Britain": {
+        "circuit_short_name": "Silverstone",
+        "session_name": "Race",
+        "session_key": 9558,
+        "total_laps": 52
+    },
+    "Hungary": {
+        "circuit_short_name": "Hungaroring",
+        "session_name": "Race",
+        "session_key": 9566,
+        "total_laps": 70
+    },
+    "Belgium": {
+        "circuit_short_name": "Spa-Francorchamps",
+        "session_name": "Race",
+        "session_key": 9574,
+        "total_laps": 44
+    },
+    "Netherlands": {
+        "circuit_short_name": "Zandvoort",
+        "session_name": "Race",
+        "session_key": 9582,
+        "total_laps": 72
+    },
+    "Italy": {
+        "circuit_short_name": "Monza",
+        "session_name": "Race",
+        "session_key": 9590,
+        "total_laps": 53
+    },
+    "Azerbaijan": {
+        "circuit_short_name": "Baku",
+        "session_name": "Race",
+        "session_key": 9598,
+        "total_laps": 51
+    },
+    "Singapore": {
+        "circuit_short_name": "Singapore",
+        "session_name": "Race",
+        "session_key": 9606,
+        "total_laps": 62
+    }
+}
